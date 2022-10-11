@@ -1,0 +1,120 @@
+body{
+    background-color: black;
+    }
+p{
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(218, 233, 228);
+    text-align: center;
+}
+div{
+    width: 100px;
+    height: 140px;
+    margin: auto;
+}
+.one{
+    background-color: rgba(72, 70, 78, 0.825);
+    margin-left:34%;
+    margin-top: 40px;
+    }
+#d2{
+    background-color: rgba(6, 73, 47, 0.688);
+    margin-left:42% ;
+    margin-top: -140px;
+        }
+#d3{
+    background-color: rgba(11, 154, 78, 0.796);
+    margin-left: 50%;
+    margin-top:-140px;
+}
+#d4{
+    background-color: rgba(25, 166, 138, 0.833);
+    margin-left: 58%;
+    margin-top:-140px;
+}
+#d5{
+    background-color: rgba(217, 216, 223, 0.621);
+    margin-left: 66%;
+    margin-top:-140px;
+}
+#d6{ 
+    background-color: rgb(210, 151, 33);
+    margin-left: 26%;
+    margin-top:40px;
+}
+#d7{
+    background-color: rgb(220, 30, 68);
+    margin-left: 34%;
+    margin-top:-140px;
+}
+#d8{
+    background-color: rgb(144, 160, 233);
+    margin-left: 42%;
+    margin-top:-140px;
+}
+#d9{
+    background-color: rgb(167, 0, 239);
+    margin-left: 50%;
+    margin-top:-140px;
+}
+#d10{
+    background-color: rgba(34, 6, 190, 0.621);
+    margin-left: 58%;
+    margin-top:-140px;
+}
+#d11{
+    background-color: rgba(69, 226, 25, 0.836);
+    margin-left: 66%;
+    margin-top:-140px;
+}
+#d12{
+    background-color: rgba(127, 110, 222, 0.973);
+    margin-left: 74%;
+    margin-top:-140px;
+}
+#d13{
+    background-color: rgba(93, 227, 229, 0.923);
+    margin-left: 18%;
+    margin-top:40px;
+}
+#d14{
+    background-color: rgba(0, 255, 136, 0.708);
+    margin-left: 26%;
+    margin-top:-140px;
+}
+#d15{
+    background-color: rgba(233, 188, 24, 0.621);
+    margin-left: 34%;
+    margin-top:-140px;
+}
+#d16{
+    background-color: rgba(176, 21, 104, 0.892);
+    margin-left: 42%;
+    margin-top:-140px;
+}
+#d17{
+    background-color: rgba(79, 3, 65, 0.985);
+    margin-left: 50%;
+    margin-top:-140px;
+}
+#d18{
+    background-color: rgb(0, 255, 183);
+    margin-left: 58%;
+    margin-top:-140px;
+}
+#d19{
+    background-color: rgba(18, 125, 161, 0.851);
+    margin-left: 66%;
+    margin-top:-140px;
+}
+#d20{
+    background-color: rgb(166, 80, 186);
+    margin-left: 74%;
+    margin-top:-140px;
+}
+#d21{
+    background-color: rgba(78, 11, 126, 0.848);
+    margin-left: 82%;
+    margin-top:-140px;
+}
